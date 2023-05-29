@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cs410-crystal-website/static/css/main.0d691e8a.css",
-    "main.js": "/cs410-crystal-website/static/js/main.6379b498.js",
-    "static/js/787.e77b07d2.chunk.js": "/cs410-crystal-website/static/js/787.e77b07d2.chunk.js",
-    "index.html": "/cs410-crystal-website/index.html",
-    "main.0d691e8a.css.map": "/cs410-crystal-website/static/css/main.0d691e8a.css.map",
-    "main.6379b498.js.map": "/cs410-crystal-website/static/js/main.6379b498.js.map",
-    "787.e77b07d2.chunk.js.map": "/cs410-crystal-website/static/js/787.e77b07d2.chunk.js.map"
+    "main.css": "/cs410-turquoise-website/static/css/main.0d691e8a.css",
+    "main.js": "/cs410-turquoise-website/static/js/main.02a93cab.js",
+    "static/js/787.f948a83e.chunk.js": "/cs410-turquoise-website/static/js/787.f948a83e.chunk.js",
+    "index.html": "/cs410-turquoise-website/index.html",
+    "main.0d691e8a.css.map": "/cs410-turquoise-website/static/css/main.0d691e8a.css.map",
+    "main.02a93cab.js.map": "/cs410-turquoise-website/static/js/main.02a93cab.js.map",
+    "787.f948a83e.chunk.js.map": "/cs410-turquoise-website/static/js/787.f948a83e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d691e8a.css",
-    "static/js/main.6379b498.js"
+    "static/js/main.02a93cab.js"
   ]
 }
