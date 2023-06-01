@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/cs410-turquoise-website/static/css/main.0d691e8a.css",
-    "main.js": "/cs410-turquoise-website/static/js/main.02a93cab.js",
+    "main.css": "/cs410-turquoise-website/static/css/main.d2dc1caa.css",
+    "main.js": "/cs410-turquoise-website/static/js/main.c6311c86.js",
     "static/js/787.f948a83e.chunk.js": "/cs410-turquoise-website/static/js/787.f948a83e.chunk.js",
+    "static/media/patrick.jpg": "/cs410-turquoise-website/static/media/patrick.d659bf24573336c060cb.jpg",
+    "static/media/christian.jpg": "/cs410-turquoise-website/static/media/christian.f0a59a6a3bc44bb825a7.jpg",
+    "static/media/prestin.jpg": "/cs410-turquoise-website/static/media/prestin.5a36bb426e6586be1ce7.jpg",
+    "static/media/benjamin.jpg": "/cs410-turquoise-website/static/media/benjamin.6c9659675a0d97f4030f.jpg",
     "index.html": "/cs410-turquoise-website/index.html",
-    "main.0d691e8a.css.map": "/cs410-turquoise-website/static/css/main.0d691e8a.css.map",
-    "main.02a93cab.js.map": "/cs410-turquoise-website/static/js/main.02a93cab.js.map",
+    "main.d2dc1caa.css.map": "/cs410-turquoise-website/static/css/main.d2dc1caa.css.map",
+    "main.c6311c86.js.map": "/cs410-turquoise-website/static/js/main.c6311c86.js.map",
     "787.f948a83e.chunk.js.map": "/cs410-turquoise-website/static/js/787.f948a83e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d691e8a.css",
-    "static/js/main.02a93cab.js"
+    "static/css/main.d2dc1caa.css",
+    "static/js/main.c6311c86.js"
   ]
 }
